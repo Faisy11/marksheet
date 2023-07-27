@@ -1,0 +1,52 @@
+.main{
+    /* border:2px solid black ; */
+    text-align: center;
+    /* margin-top: 40px; */
+}
+h3{
+    padding-bottom: 30px;
+}
+h5{
+    padding:20px;
+    /* border:2px solid black ; */
+
+}
+#tam,#eng,#mat,#sci,#soc{
+     margin-bottom: 20px;
+     border-radius: 5px;
+     border-style: none;
+     background-color: rgb(82, 157, 218);
+     width: 100px;
+     height: 40px;
+     /* border: 2px solid black; */   
+}
+label{
+margin-right: 30px;
+}
+h4{
+    padding-top: 20px;
+    /* border: 2px solid black; */
+}
+#tam{
+    margin-right: 10px;
+}
+#eng{
+     margin-right: 30px;
+}
+#mat{
+    margin-right: 20px;
+}
+#sci{
+    margin-right: 22px;
+}
+#soc{
+    margin-right: 21px;
+}
+button{
+    width: 80px;
+    
+}
+.but{
+    /* border: 2px solid black; */
+    padding-top: 30px;
+}
